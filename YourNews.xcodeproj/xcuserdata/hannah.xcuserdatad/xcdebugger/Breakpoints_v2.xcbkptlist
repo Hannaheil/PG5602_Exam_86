@@ -8,16 +8,74 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "41A010A1-3EF0-4D8C-A65C-1C6E96FD3FB1"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YourNews/ViewModels/Aticles.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
             landmarkName = "NewsViewModel"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "41A010A1-3EF0-4D8C-A65C-1C6E96FD3FB1 - f2e74232d059d950"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourNews.NewsViewModel.deinit"
+                  moduleName = "YourNews.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hannah/Documents/HK/H24_5/iOS/Exam/YourNews/YourNews/ViewModels/Aticles.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "41A010A1-3EF0-4D8C-A65C-1C6E96FD3FB1 - afb5bca48cecc545"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourNews.NewsViewModel.__deallocating_deinit"
+                  moduleName = "YourNews.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hannah/Documents/HK/H24_5/iOS/Exam/YourNews/YourNews/ViewModels/Aticles.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "41A010A1-3EF0-4D8C-A65C-1C6E96FD3FB1 - 1cade4c99a35a1e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourNews.NewsViewModel.__allocating_init() -&gt; YourNews.NewsViewModel"
+                  moduleName = "YourNews.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hannah/Documents/HK/H24_5/iOS/Exam/YourNews/YourNews/ViewModels/Aticles.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "41A010A1-3EF0-4D8C-A65C-1C6E96FD3FB1 - d617c508636237da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourNews.NewsViewModel.init() -&gt; YourNews.NewsViewModel"
+                  moduleName = "YourNews.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hannah/Documents/HK/H24_5/iOS/Exam/YourNews/YourNews/ViewModels/Aticles.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
